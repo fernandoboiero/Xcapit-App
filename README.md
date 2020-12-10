@@ -12,7 +12,7 @@ Education and games: the section where users can learn about finance, cryptocurr
 Transparent donation network. Not everyone will be able to meet their goal of going to college with their own savings. This is why users have the option of financially supporting others and getting involved in their lives (p2p donation network) or supporting different charitable causes.
 
 
-Xcapit Dapp: is a distributed application that interacts with a smart contract (XcapitContract) that allows you to set investment objectives on it and keep track of your goals. It communicates with the Brainy Core services that recommend which investment funds to generate with the risk profiles.
+Xcapit Dapp: is a distributed application that interacts with a smart contract ([XcapitContract](https://github.com/xcapit/Xcapit-Contract)) that allows you to set investment objectives on it and keep track of your goals. It communicates with the Brainy Core services that recommend which investment funds to generate with the risk profiles. Also, Xcapit Dapp use [xwallet](https://github.com/xcapit/xwallet).
 
 
 ## Prototype
